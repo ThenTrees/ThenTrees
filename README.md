@@ -16,3 +16,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranLeThienTri&layout=compact&theme=tokyonight&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=TranLeThienTri&show_icons=true&theme=tokyonight" height="165">
 </p>
+
+![tnydevdocs' snake gif](https://github.com/TranLeThienTri/TranLeThienTri/blob/output/github-contribution-grid-snake.svg)
