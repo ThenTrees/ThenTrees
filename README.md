@@ -59,7 +59,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thientri-email" />
   </a>
 </div>
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
