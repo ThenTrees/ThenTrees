@@ -1,4 +1,4 @@
-<h1 align="center">Tnydevdocs</h1>
+<h1 align="center">ThenTrees</h1>
 <!-- <h3 align="center">I'm a student IUH</h3> -->
 
 <!--
